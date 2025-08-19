@@ -1,10 +1,7 @@
-# اسم الملف: .github/workflows/pacman.yml
-
 name: Generate pacman animation
 
 on:
   schedule:
-    # سيتم التشغيل كل 12 ساعة في تمام الساعة
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -23,9 +20,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          # الخطوة الأهم: تحديد أين يتم حفظ الملفات
           outputs_dir: dist
-          # تحديد اسم ملف الوضع المضيء
           file_name: contribution-graph.svg
 
       - name: Generate pacman-contribution-graph.svg (dark mode)
@@ -33,7 +28,6 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs_dir: dist
-          # تحديد اسم ملف الوضع المظلم وتغيير الثيم
           file_name: contribution-graph-dark.svg
           theme_name: "dark"
           
