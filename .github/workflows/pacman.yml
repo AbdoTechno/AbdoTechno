@@ -1,14 +1,15 @@
+# اسم الملف: .github/workflows/pacman.yml
+
 name: Generate pacman animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
+  schedule:
+    # سيتم التشغيل كل 12 ساعة في تمام الساعة
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
@@ -18,13 +19,25 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate pacman-contribution-graph.svg
+      - name: Generate pacman-contribution-graph.svg (light mode)
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          # الخطوة الأهم: تحديد أين يتم حفظ الملفات
+          outputs_dir: dist
+          # تحديد اسم ملف الوضع المضيء
+          file_name: contribution-graph.svg
 
-
-      - name: push pacman-contribution-graph.svg to the output branch
+      - name: Generate pacman-contribution-graph.svg (dark mode)
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs_dir: dist
+          # تحديد اسم ملف الوضع المظلم وتغيير الثيم
+          file_name: contribution-graph-dark.svg
+          theme_name: "dark"
+          
+      - name: Push generated files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
