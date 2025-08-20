@@ -33,13 +33,13 @@
     <tr valign="top">
       <td align="center">
         <h4>Frontend & Mobile</h4>
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,dart,flutter" height="60" alt="frontend icons" />
+        <img src="https://skillicons.dev/icons?i=html,css,dart,flutter" height="60" alt="frontend icons" />
       </td>
     </tr>
     <tr valign="top">
       <td align="center">
         <h4>Backend & Databases</h4>
-        <img src="https://skillicons.dev/icons?i=py,flask,nodejs,mysql,postgres,mongodb,firebase" height="60" alt="backend icons" />
+        <img src="https://skillicons.dev/icons?i=py,flask,mysql,postgres,mongodb,firebase" height="60" alt="backend icons" />
       </td>
     </tr>
     <tr valign="top">
