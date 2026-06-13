@@ -99,20 +99,6 @@ motto: "Learn, Build, Innovate, Repeat"
       </td>
     </tr>
   </table>
-
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoTechno&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
-      </td>
-      <td>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdoTechno&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="400" alt="Activity Graph" />
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdoTechno&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-
 </div>
 
 ##  Featured Projects
@@ -123,8 +109,6 @@ motto: "Learn, Build, Innovate, Repeat"
 
 <div align="center">
 
-[![Braille Converter](https://github-readme-stats.vercel.app/api/pin/?username=AbdoTechno&repo=braille-converter&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/AbdoTechno/braille-converter)
-[![AI Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=AbdoTechno&repo=ai-chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/AbdoTechno/ai-chatbot)
 
 </div>
 
@@ -156,11 +140,6 @@ motto: "Learn, Build, Innovate, Repeat"
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdoTechno&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdoTechno/AbdoTechno/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdoTechno/AbdoTechno/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AbdoTechno/AbdoTechno/output/github-snake-dark.svg" />
-</picture>
 
 </div>
 
