@@ -1,193 +1,102 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdoTechno/AbdoTechno/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdoTechno/AbdoTechno/main/light.svg">
+  <img alt="Abdelrahman El-Shenawy" src="https://raw.githubusercontent.com/AbdoTechno/AbdoTechno/main/light.svg">
+</picture>
+
+<!-- ===== CONTRIBUTION SNAKE ===== -->
 <div align="center">
-
-  <!-- Dynamic Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B+I'm+Abdelrahman;AI+%26+Mobile+Developer;Flutter+%26+ML+Specialist;Welcome+To+My+Profile!&repeat=true" alt="Typing SVG" />
-  </a>
-  
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling"/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdoTechno/AbdoTechno/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdoTechno/AbdoTechno/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/AbdoTechno/AbdoTechno/output/snake-light.svg" />
+</picture>
 </div>
 
-<!-- Hero Section -->
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZreDRjajV1aHgyZGR2bjUyM3UzbTM5bGYwaTJjZWw0a3J6aGllOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HyOOyynWxMxig/giphy.gif" width="180" height="180"/>
-        <h4> Coding Enthusiast</h4>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="180" height="180"/>
-        <h4> Innovation Driven</h4>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="180" height="180"/>
-        <h4> AI </h4>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://github.com/orestesgaolin/animated_flutter_logo/blob/master/animation.gif?raw=true" height="180"/>
-        <h4> Flutter Developer</h4>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-##  About Me
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="450" height="350"/>
-</div>
-
-```yaml
-name: "Abdelrahman "
-role: "AI Engineer & Flutter Developer"
-location: "Egypt "
-journey_started: "2023"
-specialization: "AI/ML + Mobile Development"
-passion: "Building intelligent mobile applications"
-motto: "Learn, Build, Innovate, Repeat"
-
-```
-
-##  Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-
-</div>
-
-<div align="center">
-
-###  AI/ML Ecosystem
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-</p>
-
-###  Mobile Development Kingdom
+**Mobile Development**
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase&theme=dark" />
+  <img src="https://img.shields.io/badge/Bloc%2FCubit-0175C2?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GetIt-02569B?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hive-40C4FF?style=for-the-badge&logo=sqlite&logoColor=0A101F"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hive-FF6B35?style=for-the-badge&logo=hive&logoColor=white"/>
 </p>
 
+**AI / ML**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-0175C2?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-02569B?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-40C4FF?style=for-the-badge&logo=numpy&logoColor=0A101F"/>
+</p>
+
+**Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+</p>
 
 </div>
 
-##  GitHub Analytics
+## Featured Projects
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
+| Project | Description |
+|---|---|
+| 📱 **Muqirran App** | Published on Google Play |
+| 🌦️ **Weather App** | Flutter weather application |
+| 📰 **News App** | Flutter news aggregation app |
+| ✅ **Tasky Pro** | Task management app |
+| 🌾 **Al-Mozare3 (المُزارِع)** | AI-powered smart farming app |
+| 🏥 **ClinicDesk** | Fully offline clinic management system (15-module Clean Architecture app) |
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AbdoTechno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdoTechno&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
+## GitHub Analytics
 
-##  Featured Projects
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-</div>
+> ⚠️ Replace `YOUR-VERCEL-INSTANCE` below once you've self-hosted github-readme-stats (see checklist at the bottom).
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com/?user=AbdoTechno&hide_border=true&background=0A101F&stroke=0175C2&ring=40C4FF&fire=0175C2&currStreakLabel=40C4FF&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=40C4FF" width="100%"/>
 
-</div>
+<br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c11.gif" width="100">
-</div>
+<img src="https://YOUR-VERCEL-INSTANCE.vercel.app/api?username=AbdoTechno&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=0A101F&title_color=40C4FF&icon_color=0175C2&text_color=94A3B8" width="49%" />
+<img src="https://YOUR-VERCEL-INSTANCE.vercel.app/api/top-langs/?username=AbdoTechno&layout=compact&langs_count=8&hide_border=true&bg_color=0A101F&title_color=40C4FF&text_color=94A3B8" width="49%" />
 
+<br/><br/>
 
-
-##  Connect With Me
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/abdotechno/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/AbdoTechno)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:abdelrahman.techno@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0)](https://t.me/AbdoTechno)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/AbdoTechno)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdoTechno&bg_color=0A101F&color=40C4FF&line=0175C2&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
-## Contribution Activity
+## Connect With Me
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdoTechno&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
+<a href="https://www.linkedin.com/in/abdotech/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/TECHNO5o/?locale=ar_AR">
+  <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=40C4FF&labelColor=0A101F" alt="Facebook" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/TECHNO5o/?locale=ar_AR">
+  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=0175C2&labelColor=0A101F" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:abdelrahman.techno@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=0175C2&labelColor=0A101F" alt="Gmail" />
+</a>
 
-
-</div>
-
-
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
 </div>
 
 <div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=AbdoTechno&label=Profile%20Views&color=0175C2&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/AbdoTechno?label=Followers&style=for-the-badge&color=0175C2)
+![Stars](https://img.shields.io/github/stars/AbdoTechno?label=Stars&style=for-the-badge&color=0175C2)
 
-</div>
-
-<!-- Footer -->
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="200">
-  
-  ###  "The best time to plant a tree was 20 years ago. The second best time is now."
-  ###  Started in 2023 • Still Learning • Still Growing
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=AbdoTechno&label=Profile%20Views&color=00D9FF&style=for-the-badge)
-  ![Followers](https://img.shields.io/github/followers/AbdoTechno?label=Followers&style=for-the-badge&color=00D9FF)
-  ![Stars](https://img.shields.io/github/stars/AbdoTechno?label=Stars&style=for-the-badge&color=00D9FF)
-  
-  <p><b> Made with passion and dedication by Abdelrahman</b></p>
-  <p><i> 2023: Basics → 2024: AI Master → 2025: Flutter Dev </i></p>
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-  
-</div>
-
-<div align="center">
-  <details>
-    <summary>🎁 Click for a special message!</summary>
-    <br>
-    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-    <h3> My Focused Learning Journey</h3>
-    <p><i>"Focused learning beats scattered knowledge every time!" </i></p>
-    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="200">
-    <p><b>Thanks for visiting! Keep coding, keep learning! </b></p>
-  </details>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
