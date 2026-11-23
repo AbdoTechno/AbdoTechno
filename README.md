@@ -87,7 +87,7 @@
 ## 📊 GitHub activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AbdoTechno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&custom_title=Abdo%27s%20GitHub%20Stats" width="49%" alt="GitHub stats provided by github-readme-stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbdoTechno&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&custom_title=Abdo%27s%20GitHub%20Stats" width="49%" alt="GitHub stats provided by github-readme-stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdoTechno&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" width="49%" alt="Contribution streak provided by GitHub Readme Streak Stats" />
 </p>
 
